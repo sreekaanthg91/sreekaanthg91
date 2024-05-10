@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sreekaanth Ganesan
 - 👀 I’m interested in Python, Linux, CICD and Cloud
-- 🌱 I’m currently learning Python and AWS
+- 🌱 I’m currently learning Django, Containerization and Deployment.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
